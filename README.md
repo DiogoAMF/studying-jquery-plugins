@@ -32,6 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - jQuery
 - Git e Github
 
-## 💻 Sobre o Projeto
+## 💻 Projeto
 
 Este projeto usa a biblioteca jQuery para formatar e validar um formulário HTML. Ele formata automaticamente campos como CPF, telefone e CEP. Além disso, ele verifica se campos como nome, e-mail, telefone, CPF, endereço e CEP estão preenchidos corretamente antes de enviar o formulário. Se algum campo estiver preenchido incorretamente, o usuário receberá um alerta. Se tudo estiver correto, os dados serão exibidos no console quando o formulário for enviado.
